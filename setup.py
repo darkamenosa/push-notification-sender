@@ -18,7 +18,17 @@ config = {
 		'Development Status :: 3 - Alpha',
 		'Intended Audience :: Developers',
 		'Topic :: Utilities'
-	]
+	],
+    'include_package_data': True,
+    'install_requires':[
+        'flask',
+    ],
+    'setup_requires':[
+        'pytest-runner',
+    ],
+    'tests_require':[
+        'pytest',
+    ],
 }
 
 setup(**config)

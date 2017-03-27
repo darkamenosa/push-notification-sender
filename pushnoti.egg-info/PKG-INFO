@@ -1,0 +1,19 @@
+Metadata-Version: 1.1
+Name: pushnoti
+Version: 0.1.0
+Summary: My first python program, a website to test push notification [APNS, GCM]
+Home-page: UNKNOWN
+Author: darkamenosa
+Author-email: hxtxmu@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2.7
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Environment :: Web Environment
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Utilities
